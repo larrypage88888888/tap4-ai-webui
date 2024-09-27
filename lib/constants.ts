@@ -23,8 +23,7 @@ export const InfoPageSize = 12;
 
 export const FORM_PLACEHOLDER = 'https://tap4.ai/';
 
-export const WEBSITE_EXAMPLE =
-  '<a href="https://tap4.ai/" title="Tap4 AI Tools Directory">Tap4 AI Tools Diresctory</a>';
+export const WEBSITE_EXAMPLE = '<a href="https://tap4.ai/" title="Ai hub Tools Directory">Ai hub Tools Diresctory</a>';
 
 export const STARTUP_LIST = [
   {
@@ -302,7 +301,7 @@ export const STARTUP_LIST = [
   },
   {
     DA: 38,
-    Website: 'Tap4 AI',
+    Website: 'Ai hub',
     URL: 'https://tap4.ai/submit',
     Price: 'Free',
     Tag: 'AI',
